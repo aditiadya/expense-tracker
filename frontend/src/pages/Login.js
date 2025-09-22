@@ -57,7 +57,7 @@ function Login() {
     }
 
     return (
-        <div className='container'>
+        <div className='auth-container login'>
             <h1>Login</h1>
             <form onSubmit={handleLogin}>
                 <div>
