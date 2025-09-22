@@ -1,6 +1,8 @@
 ### Homepage
 ![Homepage](screenshots/homepage.png)
 
-### Login and Sign up
+### Login
 ![Login](screenshots/login.png)
+
+### Sign up
 ![Sign up](screenshots/signup.png)
